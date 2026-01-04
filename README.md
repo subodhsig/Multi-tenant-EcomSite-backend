@@ -100,4 +100,5 @@ This will folllow standard template
 ## About the frameworks
 Database : PostgreSql.
 Database design: (https://dbdocs.io/subodhsigdel63/Multi-Tenants-Ecommerce-app-Database-Design-Research)
+WebSocket
 
