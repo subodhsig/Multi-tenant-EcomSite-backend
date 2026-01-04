@@ -101,4 +101,4 @@ This will folllow standard template
 Database : PostgreSql.
 Database design: (https://dbdocs.io/subodhsigdel63/Multi-Tenants-Ecommerce-app-Database-Design-Research)
 WebSocket
-
+Swagger docs
