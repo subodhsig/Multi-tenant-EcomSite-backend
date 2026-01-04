@@ -99,4 +99,5 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 This will folllow standard template
 ## About the frameworks
 Database : PostgreSql
+Database design: 
 
